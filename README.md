@@ -4,6 +4,12 @@ A native macOS screen-to-GIF recorder built with Swift and SwiftUI.
 
 LoopSnap was born out of necessity. [ScreenToGif](https://www.screentogif.com/) is a fantastic Windows-only tool — and when switching to macOS means losing access to it, you build your own. LoopSnap is not a port or a clone; it is a fresh, macOS-native reimagining of the same core workflow: draw a region, record it, trim it in a timeline, and export a looping GIF.
 
+## Status
+
+> [!IMPORTANT]
+> This version of LoopSnap is an early prototype.  
+> It is currently being built under Norvex.
+
 Have an idea or want to pick something up? See [TODO.md](TODO.md) for a list of small, self-contained improvements.
 
 ---
